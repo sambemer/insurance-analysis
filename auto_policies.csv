@@ -1,0 +1,681 @@
+policy_id,customer_id,policy_type,vehicle_type,coverage_level,annual_premium
+A0286,286,Auto,Truck,Standard,1322.97
+A0587,587,Auto,SUV,Full Coverage,1605.23
+A0014,14,Auto,SUV,Full Coverage,1516.15
+A0753,753,Auto,Sedan,Full Coverage,2295.08
+A0193,193,Auto,Sedan,Standard,934.21
+A0586,586,Auto,SUV,Full Coverage,1178.94
+A0295,295,Auto,Truck,Standard,924.87
+A0543,543,Auto,Coupe,Liability Only,581.9
+A0125,125,Auto,Minivan,Full Coverage,1246.29
+A0365,365,Auto,Truck,Standard,893.08
+A0200,200,Auto,Sedan,Liability Only,612.34
+A0644,644,Auto,SUV,Standard,927.62
+A0222,222,Auto,Minivan,Standard,821.63
+A0794,794,Auto,Sedan,Standard,979.65
+A0609,609,Auto,Sedan,Liability Only,737.52
+A0670,670,Auto,Sedan,Standard,833.93
+A0072,72,Auto,Sedan,Standard,773.06
+A0256,256,Auto,Sedan,Standard,975.07
+A0698,698,Auto,Sedan,Liability Only,816.87
+A0268,268,Auto,SUV,Liability Only,647.67
+A0402,402,Auto,Minivan,Full Coverage,1552.7
+A0605,605,Auto,Sedan,Standard,756.78
+A0060,60,Auto,Coupe,Liability Only,449.23
+A0376,376,Auto,Coupe,Full Coverage,2708.17
+A0408,408,Auto,SUV,Liability Only,578.43
+A0539,539,Auto,Minivan,Standard,1031.43
+A0075,75,Auto,SUV,Standard,1059.78
+A0213,213,Auto,Sedan,Full Coverage,1528.51
+A0219,219,Auto,Sedan,Standard,690.74
+A0227,227,Auto,Sedan,Standard,1226.18
+A0648,648,Auto,Sedan,Liability Only,476.45
+A0084,84,Auto,Coupe,Full Coverage,1874.56
+A0760,760,Auto,Truck,Full Coverage,1676.29
+A0102,102,Auto,SUV,Full Coverage,1458.79
+A0179,179,Auto,SUV,Liability Only,621.0
+A0485,485,Auto,Coupe,Standard,1469.4
+A0098,98,Auto,SUV,Standard,621.16
+A0146,146,Auto,Coupe,Full Coverage,1294.82
+A0080,80,Auto,Sedan,Standard,837.99
+A0143,143,Auto,Sedan,Liability Only,380.44
+A0720,720,Auto,Sedan,Standard,703.26
+A0103,103,Auto,Sedan,Standard,763.56
+A0316,316,Auto,SUV,Liability Only,539.78
+A0182,182,Auto,SUV,Standard,980.73
+A0615,615,Auto,SUV,Standard,847.4
+A0494,494,Auto,SUV,Liability Only,472.69
+A0570,570,Auto,Coupe,Standard,1229.27
+A0508,508,Auto,SUV,Standard,973.27
+A0271,271,Auto,Sedan,Liability Only,643.21
+A0674,674,Auto,Truck,Standard,1345.17
+A0780,780,Auto,Sedan,Standard,1655.37
+A0737,737,Auto,Sedan,Full Coverage,1569.51
+A0362,362,Auto,Sedan,Liability Only,659.79
+A0580,580,Auto,SUV,Full Coverage,2139.19
+A0139,139,Auto,Sedan,Standard,1106.73
+A0148,148,Auto,SUV,Full Coverage,1948.3
+A0639,639,Auto,SUV,Full Coverage,1942.47
+A0749,749,Auto,Minivan,Standard,826.74
+A0306,306,Auto,Minivan,Standard,915.12
+A0611,611,Auto,Sedan,Standard,939.33
+A0121,121,Auto,Sedan,Full Coverage,935.47
+A0520,520,Auto,SUV,Liability Only,747.71
+A0660,660,Auto,Sedan,Liability Only,589.89
+A0766,766,Auto,Sedan,Standard,991.23
+A0453,453,Auto,Sedan,Full Coverage,1026.38
+A0228,228,Auto,SUV,Full Coverage,1467.46
+A0138,138,Auto,Sedan,Full Coverage,1736.73
+A0527,527,Auto,Truck,Standard,1053.45
+A0564,564,Auto,Sedan,Full Coverage,1350.01
+A0197,197,Auto,Sedan,Liability Only,665.7
+A0777,777,Auto,Coupe,Full Coverage,1813.94
+A0776,776,Auto,Sedan,Liability Only,407.8
+A0047,47,Auto,Coupe,Full Coverage,1421.83
+A0456,456,Auto,SUV,Standard,1218.24
+A0393,393,Auto,SUV,Standard,1042.66
+A0692,692,Auto,Minivan,Standard,1056.5
+A0495,495,Auto,Sedan,Standard,785.34
+A0315,315,Auto,SUV,Full Coverage,1848.23
+A0386,386,Auto,Truck,Full Coverage,2253.92
+A0225,225,Auto,SUV,Liability Only,586.83
+A0116,116,Auto,Coupe,Full Coverage,2319.6
+A0309,309,Auto,Sedan,Standard,1315.32
+A0732,732,Auto,Sedan,Full Coverage,1201.58
+A0471,471,Auto,Sedan,Liability Only,791.92
+A0596,596,Auto,Coupe,Standard,1074.6
+A0757,757,Auto,SUV,Standard,1009.47
+A0218,218,Auto,Sedan,Standard,1636.55
+A0678,678,Auto,Coupe,Liability Only,1148.41
+A0378,378,Auto,Coupe,Liability Only,567.85
+A0510,510,Auto,Minivan,Standard,795.01
+A0152,152,Auto,Sedan,Standard,757.07
+A0343,343,Auto,Coupe,Standard,1011.33
+A0791,791,Auto,Truck,Liability Only,531.32
+A0632,632,Auto,Sedan,Standard,1051.31
+A0140,140,Auto,SUV,Liability Only,571.99
+A0161,161,Auto,SUV,Standard,949.8
+A0427,427,Auto,Sedan,Standard,953.08
+A0192,192,Auto,SUV,Liability Only,809.77
+A0265,265,Auto,SUV,Standard,1010.48
+A0613,613,Auto,Coupe,Liability Only,741.36
+A0792,792,Auto,SUV,Full Coverage,1849.39
+A0462,462,Auto,Sedan,Standard,795.74
+A0457,457,Auto,Truck,Standard,1233.57
+A0114,114,Auto,SUV,Full Coverage,1946.21
+A0151,151,Auto,SUV,Standard,950.18
+A0059,59,Auto,Coupe,Full Coverage,1194.08
+A0154,154,Auto,Coupe,Liability Only,509.34
+A0173,173,Auto,Sedan,Liability Only,574.0
+A0384,384,Auto,SUV,Full Coverage,1316.57
+A0650,650,Auto,Coupe,Full Coverage,1545.49
+A0630,630,Auto,Minivan,Standard,788.88
+A0232,232,Auto,Sedan,Full Coverage,1856.5
+A0739,739,Auto,Sedan,Liability Only,633.7
+A0291,291,Auto,Truck,Standard,909.5
+A0482,482,Auto,SUV,Full Coverage,1776.56
+A0270,270,Auto,SUV,Liability Only,444.27
+A0332,332,Auto,Truck,Standard,975.55
+A0351,351,Auto,Coupe,Liability Only,511.74
+A0076,76,Auto,Minivan,Standard,1121.39
+A0289,289,Auto,SUV,Full Coverage,1681.18
+A0724,724,Auto,Truck,Liability Only,661.67
+A0642,642,Auto,Sedan,Full Coverage,1254.54
+A0621,621,Auto,Sedan,Full Coverage,1152.47
+A0349,349,Auto,SUV,Full Coverage,1667.45
+A0454,454,Auto,Sedan,Standard,1343.6
+A0439,439,Auto,Sedan,Liability Only,832.93
+A0137,137,Auto,Sedan,Liability Only,577.8
+A0489,489,Auto,SUV,Liability Only,551.05
+A0168,168,Auto,Coupe,Standard,981.24
+A0188,188,Auto,SUV,Liability Only,395.23
+A0020,20,Auto,Minivan,Full Coverage,1016.18
+A0788,788,Auto,Sedan,Liability Only,556.94
+A0600,600,Auto,Sedan,Standard,889.22
+A0066,66,Auto,Minivan,Liability Only,533.26
+A0604,604,Auto,Coupe,Full Coverage,1981.56
+A0238,238,Auto,SUV,Liability Only,564.52
+A0274,274,Auto,SUV,Standard,1382.03
+A0759,759,Auto,Sedan,Standard,1406.97
+A0091,91,Auto,Sedan,Liability Only,515.87
+A0133,133,Auto,Coupe,Standard,1930.68
+A0039,39,Auto,SUV,Liability Only,517.72
+A0204,204,Auto,Sedan,Full Coverage,881.83
+A0344,344,Auto,Sedan,Standard,818.37
+A0665,665,Auto,SUV,Standard,781.18
+A0399,399,Auto,Coupe,Full Coverage,1366.34
+A0278,278,Auto,SUV,Standard,1032.49
+A0511,511,Auto,Sedan,Standard,992.63
+A0131,131,Auto,Sedan,Full Coverage,1379.64
+A0049,49,Auto,SUV,Standard,815.22
+A0423,423,Auto,Coupe,Liability Only,833.3
+A0169,169,Auto,Truck,Liability Only,452.55
+A0467,467,Auto,Sedan,Standard,768.07
+A0164,164,Auto,Minivan,Liability Only,421.43
+A0528,528,Auto,Sedan,Full Coverage,1441.65
+A0065,65,Auto,SUV,Standard,656.26
+A0487,487,Auto,Coupe,Standard,923.29
+A0050,50,Auto,SUV,Standard,1525.12
+A0246,246,Auto,Sedan,Liability Only,758.44
+A0689,689,Auto,Sedan,Full Coverage,1832.68
+A0521,521,Auto,SUV,Standard,875.29
+A0391,391,Auto,SUV,Standard,1156.45
+A0771,771,Auto,SUV,Standard,801.93
+A0496,496,Auto,Sedan,Standard,972.97
+A0469,469,Auto,Sedan,Full Coverage,1504.75
+A0369,369,Auto,SUV,Standard,1433.33
+A0618,618,Auto,Minivan,Standard,750.34
+A0525,525,Auto,SUV,Full Coverage,1341.89
+A0416,416,Auto,SUV,Full Coverage,1289.5
+A0101,101,Auto,SUV,Full Coverage,1950.52
+A0038,38,Auto,Truck,Standard,1236.14
+A0405,405,Auto,Coupe,Standard,877.48
+A0550,550,Auto,Sedan,Standard,871.25
+A0634,634,Auto,SUV,Liability Only,440.33
+A0465,465,Auto,SUV,Full Coverage,2182.31
+A0403,403,Auto,SUV,Full Coverage,1331.35
+A0751,751,Auto,Sedan,Full Coverage,1347.1
+A0153,153,Auto,Truck,Liability Only,621.14
+A0490,490,Auto,SUV,Standard,1014.63
+A0730,730,Auto,SUV,Standard,854.86
+A0012,12,Auto,SUV,Liability Only,488.62
+A0323,323,Auto,Minivan,Standard,816.73
+A0420,420,Auto,Sedan,Standard,1047.94
+A0056,56,Auto,Sedan,Liability Only,681.83
+A0381,381,Auto,Coupe,Standard,1597.28
+A0259,259,Auto,Sedan,Full Coverage,1448.37
+A0357,357,Auto,Coupe,Full Coverage,1298.64
+A0105,105,Auto,Coupe,Standard,2324.48
+A0626,626,Auto,Sedan,Standard,680.91
+A0144,144,Auto,Sedan,Liability Only,584.37
+A0310,310,Auto,SUV,Standard,1229.34
+A0392,392,Auto,Minivan,Full Coverage,1611.56
+A0267,267,Auto,SUV,Standard,718.13
+A0319,319,Auto,SUV,Full Coverage,1443.63
+A0375,375,Auto,Truck,Standard,893.5
+A0350,350,Auto,Sedan,Liability Only,677.63
+A0773,773,Auto,Sedan,Liability Only,759.96
+A0147,147,Auto,SUV,Standard,1181.74
+A0185,185,Auto,Sedan,Standard,738.88
+A0176,176,Auto,Coupe,Liability Only,632.97
+A0122,122,Auto,Coupe,Standard,1385.81
+A0568,568,Auto,Truck,Liability Only,501.06
+A0484,484,Auto,Coupe,Full Coverage,1602.38
+A0709,709,Auto,Sedan,Full Coverage,1191.0
+A0606,606,Auto,Sedan,Liability Only,405.31
+A0170,170,Auto,SUV,Liability Only,657.89
+A0799,799,Auto,Sedan,Full Coverage,1490.86
+A0130,130,Auto,Sedan,Standard,892.11
+A0790,790,Auto,Minivan,Full Coverage,1393.69
+A0754,754,Auto,SUV,Standard,985.73
+A0450,450,Auto,Sedan,Liability Only,797.2
+A0472,472,Auto,SUV,Liability Only,624.84
+A0432,432,Auto,SUV,Standard,825.43
+A0297,297,Auto,Sedan,Liability Only,429.61
+A0150,150,Auto,Coupe,Full Coverage,2266.06
+A0364,364,Auto,SUV,Full Coverage,1319.79
+A0298,298,Auto,Sedan,Liability Only,562.8
+A0713,713,Auto,SUV,Liability Only,607.2
+A0585,585,Auto,Sedan,Standard,1224.82
+A0264,264,Auto,Truck,Standard,1174.23
+A0583,583,Auto,Sedan,Full Coverage,2216.89
+A0569,569,Auto,Sedan,Standard,559.37
+A0329,329,Auto,Truck,Full Coverage,2155.07
+A0798,798,Auto,SUV,Standard,612.85
+A0752,752,Auto,Truck,Standard,973.78
+A0266,266,Auto,Coupe,Standard,1405.94
+A0571,571,Auto,Sedan,Full Coverage,988.39
+A0304,304,Auto,SUV,Full Coverage,1840.54
+A0576,576,Auto,Coupe,Full Coverage,1120.41
+A0353,353,Auto,Truck,Standard,864.56
+A0545,545,Auto,Sedan,Full Coverage,1932.74
+A0042,42,Auto,Sedan,Full Coverage,1876.23
+A0418,418,Auto,Sedan,Liability Only,587.04
+A0093,93,Auto,SUV,Standard,867.25
+A0736,736,Auto,Sedan,Standard,855.03
+A0275,275,Auto,Truck,Full Coverage,2018.68
+A0589,589,Auto,Minivan,Liability Only,592.43
+A0160,160,Auto,Sedan,Standard,931.77
+A0262,262,Auto,Truck,Standard,1137.62
+A0043,43,Auto,SUV,Full Coverage,1064.01
+A0500,500,Auto,Sedan,Standard,707.95
+A0652,652,Auto,Sedan,Standard,1162.67
+A0282,282,Auto,Sedan,Standard,1079.59
+A0247,247,Auto,Minivan,Standard,764.31
+A0463,463,Auto,Sedan,Standard,821.01
+A0201,201,Auto,Sedan,Liability Only,428.14
+A0540,540,Auto,SUV,Full Coverage,2274.57
+A0045,45,Auto,Sedan,Full Coverage,1393.85
+A0123,123,Auto,Sedan,Liability Only,640.59
+A0030,30,Auto,Coupe,Standard,801.49
+A0765,765,Auto,Coupe,Standard,1269.19
+A0327,327,Auto,Sedan,Full Coverage,1163.67
+A0538,538,Auto,Sedan,Liability Only,568.78
+A0533,533,Auto,Truck,Standard,1344.43
+A0394,394,Auto,Minivan,Full Coverage,1497.2
+A0269,269,Auto,Truck,Full Coverage,1426.79
+A0574,574,Auto,SUV,Standard,2515.35
+A0707,707,Auto,Coupe,Standard,1357.91
+A0296,296,Auto,Sedan,Full Coverage,1245.19
+A0590,590,Auto,Minivan,Standard,637.48
+A0048,48,Auto,Coupe,Standard,1365.14
+A0258,258,Auto,Minivan,Liability Only,589.1
+A0413,413,Auto,Truck,Standard,1127.08
+A0317,317,Auto,Truck,Liability Only,492.25
+A0358,358,Auto,Sedan,Standard,822.95
+A0534,534,Auto,Sedan,Liability Only,546.06
+A0281,281,Auto,Sedan,Liability Only,330.79
+A0380,380,Auto,Minivan,Standard,642.53
+A0662,662,Auto,Minivan,Standard,913.22
+A0347,347,Auto,SUV,Standard,1179.52
+A0544,544,Auto,Truck,Liability Only,724.71
+A0112,112,Auto,Sedan,Standard,1411.94
+A0530,530,Auto,SUV,Full Coverage,1326.84
+A0272,272,Auto,Sedan,Liability Only,875.72
+A0509,509,Auto,Sedan,Full Coverage,1058.56
+A0253,253,Auto,Sedan,Full Coverage,2054.13
+A0501,501,Auto,Sedan,Full Coverage,1511.93
+A0641,641,Auto,SUV,Standard,644.33
+A0620,620,Auto,Coupe,Liability Only,1202.51
+A0657,657,Auto,SUV,Full Coverage,1143.99
+A0775,775,Auto,Minivan,Standard,853.2
+A0663,663,Auto,SUV,Standard,1285.53
+A0003,3,Auto,Truck,Liability Only,660.88
+A0668,668,Auto,Sedan,Full Coverage,1136.87
+A0778,778,Auto,Sedan,Full Coverage,1470.15
+A0503,503,Auto,Truck,Full Coverage,1840.65
+A0738,738,Auto,Coupe,Standard,981.43
+A0025,25,Auto,SUV,Liability Only,706.45
+A0746,746,Auto,Truck,Liability Only,594.0
+A0068,68,Auto,SUV,Liability Only,492.35
+A0145,145,Auto,Sedan,Liability Only,575.82
+A0577,577,Auto,Sedan,Liability Only,593.16
+A0506,506,Auto,Sedan,Full Coverage,1644.2
+A0207,207,Auto,Sedan,Standard,912.05
+A0115,115,Auto,SUV,Liability Only,758.18
+A0018,18,Auto,Sedan,Standard,998.32
+A0603,603,Auto,Sedan,Standard,1141.78
+A0367,367,Auto,Minivan,Liability Only,551.29
+A0360,360,Auto,SUV,Standard,1040.64
+A0451,451,Auto,Minivan,Full Coverage,1257.5
+A0442,442,Auto,SUV,Full Coverage,1201.17
+A0546,546,Auto,Truck,Liability Only,778.82
+A0468,468,Auto,Coupe,Standard,1755.9
+A0233,233,Auto,Sedan,Liability Only,742.67
+A0637,637,Auto,Sedan,Standard,883.89
+A0374,374,Auto,SUV,Full Coverage,1643.92
+A0255,255,Auto,Sedan,Standard,720.86
+A0397,397,Auto,SUV,Liability Only,578.01
+A0616,616,Auto,SUV,Standard,1120.42
+A0504,504,Auto,Minivan,Liability Only,473.09
+A0419,419,Auto,Sedan,Standard,840.25
+A0617,617,Auto,Sedan,Standard,857.69
+A0063,63,Auto,Sedan,Full Coverage,1580.71
+A0195,195,Auto,Sedan,Full Coverage,2271.35
+A0124,124,Auto,Sedan,Full Coverage,1088.77
+A0705,705,Auto,Sedan,Full Coverage,1629.26
+A0685,685,Auto,Sedan,Standard,1285.84
+A0180,180,Auto,Sedan,Full Coverage,1239.63
+A0470,470,Auto,SUV,Standard,1121.39
+A0712,712,Auto,Sedan,Full Coverage,1086.59
+A0535,535,Auto,Truck,Standard,1379.4
+A0523,523,Auto,Sedan,Standard,727.54
+A0706,706,Auto,Truck,Full Coverage,1298.34
+A0037,37,Auto,Sedan,Standard,1015.68
+A0703,703,Auto,Minivan,Standard,810.04
+A0505,505,Auto,Sedan,Full Coverage,2136.9
+A0288,288,Auto,Truck,Liability Only,474.68
+A0772,772,Auto,Coupe,Liability Only,723.96
+A0088,88,Auto,SUV,Full Coverage,1202.61
+A0385,385,Auto,Sedan,Full Coverage,1639.19
+A0136,136,Auto,Coupe,Full Coverage,1185.65
+A0476,476,Auto,SUV,Standard,905.28
+A0345,345,Auto,Truck,Full Coverage,1570.82
+A0062,62,Auto,Sedan,Standard,904.19
+A0163,163,Auto,SUV,Full Coverage,1073.03
+A0729,729,Auto,Sedan,Standard,738.34
+A0492,492,Auto,Minivan,Standard,808.12
+A0073,73,Auto,SUV,Standard,1191.4
+A0443,443,Auto,Coupe,Full Coverage,1437.33
+A0624,624,Auto,SUV,Liability Only,466.49
+A0441,441,Auto,SUV,Full Coverage,2744.94
+A0524,524,Auto,Truck,Standard,964.33
+A0335,335,Auto,SUV,Liability Only,812.1
+A0610,610,Auto,Coupe,Standard,1096.15
+A0726,726,Auto,SUV,Standard,876.6
+A0331,331,Auto,SUV,Liability Only,833.64
+A0177,177,Auto,Truck,Full Coverage,1365.39
+A0635,635,Auto,Sedan,Standard,911.93
+A0157,157,Auto,SUV,Liability Only,889.42
+A0250,250,Auto,Truck,Standard,1091.96
+A0293,293,Auto,Sedan,Standard,842.05
+A0512,512,Auto,Coupe,Full Coverage,2199.05
+A0387,387,Auto,SUV,Liability Only,997.38
+A0236,236,Auto,Sedan,Standard,847.81
+A0741,741,Auto,Coupe,Standard,1465.62
+A0254,254,Auto,SUV,Standard,807.25
+A0481,481,Auto,Minivan,Full Coverage,970.11
+A0561,561,Auto,Truck,Standard,1133.78
+A0683,683,Auto,SUV,Liability Only,588.65
+A0682,682,Auto,Truck,Standard,901.32
+A0446,446,Auto,Truck,Full Coverage,1094.99
+A0744,744,Auto,Coupe,Standard,800.81
+A0400,400,Auto,SUV,Full Coverage,1549.83
+A0676,676,Auto,SUV,Full Coverage,1687.34
+A0194,194,Auto,Coupe,Standard,1032.25
+A0672,672,Auto,SUV,Standard,769.22
+A0633,633,Auto,Sedan,Liability Only,370.5
+A0395,395,Auto,Coupe,Standard,1410.21
+A0612,612,Auto,SUV,Full Coverage,1996.45
+A0507,507,Auto,Sedan,Full Coverage,1325.17
+A0191,191,Auto,Sedan,Full Coverage,1674.5
+A0409,409,Auto,Sedan,Full Coverage,1293.21
+A0436,436,Auto,SUV,Full Coverage,1660.34
+A0109,109,Auto,Sedan,Standard,1140.29
+A0785,785,Auto,SUV,Full Coverage,1546.41
+A0631,631,Auto,Sedan,Liability Only,743.02
+A0499,499,Auto,Minivan,Liability Only,670.25
+A0094,94,Auto,Truck,Liability Only,466.5
+A0352,352,Auto,Coupe,Full Coverage,2967.43
+A0755,755,Auto,Truck,Standard,886.4
+A0649,649,Auto,Sedan,Standard,933.22
+A0257,257,Auto,Truck,Full Coverage,2259.06
+A0077,77,Auto,Minivan,Standard,1182.97
+A0371,371,Auto,Minivan,Standard,922.45
+A0216,216,Auto,SUV,Full Coverage,1208.87
+A0518,518,Auto,Truck,Liability Only,773.13
+A0786,786,Auto,Minivan,Full Coverage,1831.71
+A0415,415,Auto,Sedan,Standard,1006.9
+A0024,24,Auto,Truck,Liability Only,737.32
+A0723,723,Auto,Sedan,Standard,1169.34
+A0592,592,Auto,Sedan,Liability Only,755.73
+A0582,582,Auto,Truck,Full Coverage,1346.53
+A0742,742,Auto,SUV,Standard,726.74
+A0572,572,Auto,SUV,Full Coverage,2564.73
+A0645,645,Auto,Coupe,Liability Only,537.45
+A0478,478,Auto,Sedan,Liability Only,641.3
+A0758,758,Auto,SUV,Full Coverage,1426.29
+A0081,81,Auto,Minivan,Full Coverage,1307.38
+A0320,320,Auto,Coupe,Liability Only,1089.04
+A0627,627,Auto,Coupe,Full Coverage,1065.61
+A0260,260,Auto,SUV,Full Coverage,1840.76
+A0458,458,Auto,Sedan,Liability Only,519.84
+A0041,41,Auto,SUV,Standard,920.11
+A0563,563,Auto,Truck,Standard,1192.95
+A0183,183,Auto,SUV,Full Coverage,1640.33
+A0212,212,Auto,SUV,Full Coverage,1398.19
+A0549,549,Auto,Coupe,Liability Only,661.79
+A0158,158,Auto,SUV,Liability Only,537.59
+A0756,756,Auto,Truck,Standard,994.24
+A0334,334,Auto,Sedan,Liability Only,618.0
+A0578,578,Auto,SUV,Standard,1127.79
+A0654,654,Auto,Truck,Liability Only,962.14
+A0719,719,Auto,Sedan,Standard,941.57
+A0491,491,Auto,SUV,Full Coverage,1549.9
+A0747,747,Auto,Sedan,Standard,735.79
+A0202,202,Auto,SUV,Liability Only,481.19
+A0424,424,Auto,SUV,Standard,1041.43
+A0702,702,Auto,SUV,Standard,1060.91
+A0733,733,Auto,SUV,Standard,941.68
+A0015,15,Auto,Minivan,Liability Only,316.7
+A0209,209,Auto,Coupe,Full Coverage,1328.73
+A0239,239,Auto,Sedan,Standard,851.93
+A0244,244,Auto,Coupe,Standard,1380.55
+A0333,333,Auto,SUV,Standard,900.59
+A0619,619,Auto,Sedan,Standard,1456.47
+A0338,338,Auto,Truck,Standard,1050.94
+A0294,294,Auto,Truck,Liability Only,650.48
+A0171,171,Auto,SUV,Standard,1287.99
+A0770,770,Auto,Sedan,Liability Only,358.11
+A0022,22,Auto,SUV,Liability Only,651.4
+A0118,118,Auto,Sedan,Standard,755.52
+A0307,307,Auto,Coupe,Full Coverage,1314.01
+A0430,430,Auto,Sedan,Standard,623.43
+A0184,184,Auto,Coupe,Liability Only,648.09
+A0311,311,Auto,SUV,Standard,734.71
+A0697,697,Auto,Sedan,Full Coverage,1541.61
+A0461,461,Auto,Coupe,Standard,745.52
+A0053,53,Auto,Coupe,Liability Only,785.17
+A0290,290,Auto,Coupe,Standard,829.45
+A0629,629,Auto,SUV,Standard,941.38
+A0252,252,Auto,Sedan,Full Coverage,1525.61
+A0628,628,Auto,SUV,Standard,609.13
+A0761,761,Auto,SUV,Full Coverage,2423.97
+A0554,554,Auto,Coupe,Standard,811.79
+A0516,516,Auto,Sedan,Full Coverage,2437.9
+A0277,277,Auto,SUV,Liability Only,488.5
+A0414,414,Auto,Coupe,Full Coverage,1776.84
+A0159,159,Auto,Minivan,Liability Only,578.31
+A0767,767,Auto,Sedan,Standard,592.88
+A0230,230,Auto,Sedan,Standard,1140.04
+A0750,750,Auto,Coupe,Standard,1346.36
+A0721,721,Auto,Sedan,Full Coverage,1237.57
+A0404,404,Auto,Sedan,Liability Only,499.4
+A0087,87,Auto,SUV,Standard,1440.34
+A0579,579,Auto,SUV,Standard,1258.41
+A0688,688,Auto,SUV,Standard,961.1
+A0356,356,Auto,Sedan,Standard,793.35
+A0556,556,Auto,Sedan,Liability Only,508.06
+A0614,614,Auto,Sedan,Standard,1076.54
+A0438,438,Auto,Coupe,Standard,921.09
+A0079,79,Auto,Coupe,Standard,1239.35
+A0172,172,Auto,SUV,Full Coverage,2168.78
+A0789,789,Auto,Sedan,Full Coverage,1079.5
+A0722,722,Auto,Sedan,Standard,930.87
+A0174,174,Auto,SUV,Full Coverage,2171.0
+A0694,694,Auto,Truck,Standard,1321.93
+A0444,444,Auto,SUV,Full Coverage,1573.37
+A0034,34,Auto,Sedan,Standard,996.89
+A0341,341,Auto,Minivan,Standard,742.45
+A0019,19,Auto,SUV,Full Coverage,1891.67
+A0382,382,Auto,Coupe,Standard,717.42
+A0691,691,Auto,Sedan,Standard,697.57
+A0330,330,Auto,Coupe,Full Coverage,2994.01
+A0243,243,Auto,Truck,Full Coverage,2503.08
+A0734,734,Auto,SUV,Liability Only,644.58
+A0537,537,Auto,Sedan,Full Coverage,1286.52
+A0186,186,Auto,Minivan,Full Coverage,1849.02
+A0486,486,Auto,Sedan,Full Coverage,2120.7
+A0474,474,Auto,Coupe,Liability Only,694.42
+A0653,653,Auto,Minivan,Liability Only,718.11
+A0285,285,Auto,SUV,Liability Only,761.26
+A0783,783,Auto,Minivan,Full Coverage,1362.32
+A0379,379,Auto,Sedan,Liability Only,381.84
+A0781,781,Auto,SUV,Liability Only,829.02
+A0051,51,Auto,Minivan,Standard,757.02
+A0396,396,Auto,SUV,Liability Only,572.24
+A0178,178,Auto,SUV,Standard,1185.06
+A0013,13,Auto,Coupe,Liability Only,723.38
+A0090,90,Auto,Sedan,Liability Only,654.6
+A0083,83,Auto,Coupe,Full Coverage,2410.82
+A0559,559,Auto,SUV,Liability Only,821.99
+A0519,519,Auto,Sedan,Full Coverage,1512.65
+A0800,800,Auto,Sedan,Standard,949.25
+A0373,373,Auto,Minivan,Liability Only,470.41
+A0514,514,Auto,Sedan,Full Coverage,1125.63
+A0004,4,Auto,SUV,Standard,906.94
+A0594,594,Auto,Coupe,Liability Only,518.76
+A0636,636,Auto,SUV,Liability Only,636.88
+A0716,716,Auto,Coupe,Standard,1018.65
+A0156,156,Auto,Sedan,Full Coverage,2033.07
+A0460,460,Auto,Sedan,Standard,1234.78
+A0541,541,Auto,Minivan,Standard,744.65
+A0064,64,Auto,SUV,Standard,977.92
+A0769,769,Auto,SUV,Liability Only,535.74
+A0086,86,Auto,Coupe,Standard,972.36
+A0028,28,Auto,Minivan,Liability Only,451.3
+A0284,284,Auto,SUV,Liability Only,799.0
+A0032,32,Auto,Sedan,Full Coverage,1291.68
+A0764,764,Auto,Truck,Standard,1269.26
+A0092,92,Auto,Coupe,Liability Only,751.08
+A0601,601,Auto,SUV,Standard,693.37
+A0696,696,Auto,Sedan,Standard,992.55
+A0223,223,Auto,SUV,Liability Only,589.47
+A0551,551,Auto,SUV,Full Coverage,1721.59
+A0113,113,Auto,Sedan,Liability Only,752.66
+A0502,502,Auto,Sedan,Liability Only,641.58
+A0107,107,Auto,Sedan,Liability Only,640.31
+A0643,643,Auto,SUV,Standard,667.56
+A0287,287,Auto,Coupe,Standard,1245.0
+A0669,669,Auto,Truck,Full Coverage,1740.24
+A0584,584,Auto,SUV,Standard,1362.53
+A0686,686,Auto,Sedan,Standard,816.3
+A0666,666,Auto,Sedan,Full Coverage,1308.62
+A0074,74,Auto,SUV,Standard,1137.27
+A0477,477,Auto,Coupe,Standard,848.56
+A0445,445,Auto,SUV,Standard,691.67
+A0044,44,Auto,Minivan,Standard,777.16
+A0411,411,Auto,SUV,Standard,1053.72
+A0599,599,Auto,Truck,Standard,1086.49
+A0656,656,Auto,SUV,Liability Only,377.42
+A0433,433,Auto,Coupe,Standard,790.87
+A0796,796,Auto,Truck,Full Coverage,1685.54
+A0522,522,Auto,SUV,Standard,1023.14
+A0575,575,Auto,Sedan,Liability Only,884.28
+A0135,135,Auto,Sedan,Standard,1243.77
+A0542,542,Auto,Sedan,Standard,1761.11
+A0667,667,Auto,SUV,Standard,886.86
+A0622,622,Auto,Sedan,Liability Only,474.03
+A0196,196,Auto,SUV,Standard,1305.91
+A0455,455,Auto,Coupe,Liability Only,677.69
+A0361,361,Auto,Sedan,Liability Only,581.47
+A0082,82,Auto,Truck,Liability Only,465.53
+A0708,708,Auto,SUV,Liability Only,538.63
+A0704,704,Auto,Sedan,Standard,891.82
+A0547,547,Auto,SUV,Standard,996.63
+A0261,261,Auto,SUV,Full Coverage,1754.62
+A0108,108,Auto,Coupe,Liability Only,548.05
+A0226,226,Auto,Sedan,Standard,881.9
+A0602,602,Auto,Coupe,Standard,953.98
+A0406,406,Auto,Sedan,Liability Only,362.48
+A0795,795,Auto,Sedan,Liability Only,567.59
+A0466,466,Auto,Minivan,Standard,885.87
+A0071,71,Auto,Coupe,Liability Only,1009.88
+A0640,640,Auto,SUV,Full Coverage,1745.79
+A0731,731,Auto,Truck,Liability Only,562.92
+A0224,224,Auto,Sedan,Full Coverage,1162.47
+A0787,787,Auto,Sedan,Full Coverage,1897.89
+A0429,429,Auto,Coupe,Liability Only,1050.51
+A0339,339,Auto,Sedan,Liability Only,439.65
+A0069,69,Auto,Sedan,Standard,1252.79
+A0031,31,Auto,Sedan,Full Coverage,1658.35
+A0067,67,Auto,Truck,Full Coverage,1966.26
+A0529,529,Auto,Truck,Standard,1003.35
+A0318,318,Auto,Sedan,Full Coverage,1395.1
+A0300,300,Auto,SUV,Full Coverage,1793.6
+A0684,684,Auto,Coupe,Full Coverage,1552.64
+A0215,215,Auto,Minivan,Full Coverage,1290.42
+A0027,27,Auto,Coupe,Full Coverage,1245.5
+A0263,263,Auto,Sedan,Full Coverage,1273.52
+A0389,389,Auto,SUV,Standard,756.09
+A0588,588,Auto,Truck,Liability Only,1051.62
+A0303,303,Auto,Coupe,Standard,1423.8
+A0292,292,Auto,Sedan,Full Coverage,1694.97
+A0426,426,Auto,Sedan,Standard,946.44
+A0693,693,Auto,SUV,Full Coverage,1826.39
+A0459,459,Auto,SUV,Liability Only,671.97
+A0221,221,Auto,Coupe,Liability Only,790.98
+A0377,377,Auto,Sedan,Full Coverage,1257.83
+A0240,240,Auto,SUV,Liability Only,414.64
+A0354,354,Auto,Minivan,Standard,490.53
+A0359,359,Auto,Truck,Standard,1712.09
+A0591,591,Auto,Sedan,Liability Only,882.86
+A0422,422,Auto,Coupe,Full Coverage,1682.94
+A0714,714,Auto,SUV,Standard,1025.27
+A0566,566,Auto,Minivan,Full Coverage,1207.06
+A0089,89,Auto,Minivan,Full Coverage,1134.24
+A0235,235,Auto,Sedan,Standard,819.36
+A0011,11,Auto,Minivan,Standard,595.9
+A0273,273,Auto,Sedan,Standard,793.35
+A0155,155,Auto,Sedan,Full Coverage,1829.89
+A0237,237,Auto,SUV,Liability Only,444.11
+A0149,149,Auto,Truck,Full Coverage,2485.66
+A0655,655,Auto,Minivan,Full Coverage,1496.37
+A0710,710,Auto,Sedan,Standard,935.66
+A0302,302,Auto,Sedan,Standard,963.32
+A0249,249,Auto,Coupe,Standard,1348.57
+A0728,728,Auto,Sedan,Full Coverage,1966.52
+A0740,740,Auto,Sedan,Full Coverage,1323.92
+A0085,85,Auto,Sedan,Standard,697.51
+A0206,206,Auto,Sedan,Standard,674.53
+A0661,661,Auto,Coupe,Liability Only,660.46
+A0659,659,Auto,Coupe,Liability Only,1526.63
+A0134,134,Auto,Sedan,Standard,1387.29
+A0166,166,Auto,Truck,Full Coverage,1402.95
+A0428,428,Auto,SUV,Liability Only,644.75
+A0368,368,Auto,Truck,Standard,1180.15
+A0198,198,Auto,SUV,Liability Only,619.69
+A0313,313,Auto,Sedan,Full Coverage,1899.78
+A0715,715,Auto,Sedan,Standard,1099.15
+A0058,58,Auto,Coupe,Liability Only,1171.85
+A0711,711,Auto,Sedan,Standard,990.73
+A0548,548,Auto,Sedan,Standard,740.32
+A0480,480,Auto,Sedan,Full Coverage,1664.71
+A0097,97,Auto,SUV,Standard,951.6
+A0671,671,Auto,Coupe,Standard,1297.6
+A0647,647,Auto,Minivan,Full Coverage,1420.24
+A0797,797,Auto,Sedan,Liability Only,475.52
+A0370,370,Auto,SUV,Standard,714.7
+A0328,328,Auto,Sedan,Standard,1595.04
+A0057,57,Auto,Sedan,Standard,890.15
+A0664,664,Auto,SUV,Full Coverage,1345.34
+A0793,793,Auto,Truck,Liability Only,1122.26
+A0007,7,Auto,Truck,Standard,1680.82
+A0658,658,Auto,Coupe,Liability Only,691.53
+A0558,558,Auto,Minivan,Full Coverage,1307.23
+A0625,625,Auto,SUV,Full Coverage,1301.47
+A0036,36,Auto,Sedan,Liability Only,695.45
+A0421,421,Auto,SUV,Liability Only,568.7
+A0205,205,Auto,Truck,Standard,1025.9
+A0748,748,Auto,Truck,Full Coverage,1673.68
+A0440,440,Auto,Sedan,Standard,680.91
+A0598,598,Auto,Minivan,Standard,1214.8
+A0054,54,Auto,Coupe,Liability Only,935.66
+A0623,623,Auto,Sedan,Standard,975.69
+A0473,473,Auto,SUV,Standard,891.01
+A0638,638,Auto,Sedan,Standard,788.77
+A0437,437,Auto,Coupe,Liability Only,519.31
+A0321,321,Auto,Sedan,Standard,929.69
+A0324,324,Auto,Coupe,Liability Only,583.81
+A0448,448,Auto,Truck,Liability Only,556.86
+A0573,573,Auto,Truck,Standard,1123.59
+A0560,560,Auto,Sedan,Full Coverage,1549.47
+A0717,717,Auto,Sedan,Liability Only,500.4
+A0646,646,Auto,Minivan,Standard,766.07
+A0774,774,Auto,SUV,Liability Only,605.82
+A0203,203,Auto,Minivan,Full Coverage,1141.59
+A0210,210,Auto,SUV,Liability Only,895.16
+A0695,695,Auto,SUV,Standard,1389.54
+A0001,1,Auto,Coupe,Liability Only,988.7
+A0743,743,Auto,SUV,Standard,814.51
+A0497,497,Auto,Sedan,Standard,856.4
+A0005,5,Auto,Sedan,Full Coverage,1038.37
+A0725,725,Auto,Coupe,Liability Only,741.16
+A0745,745,Auto,SUV,Full Coverage,1744.4
+A0449,449,Auto,Coupe,Liability Only,781.41
+A0784,784,Auto,SUV,Liability Only,608.85
+A0488,488,Auto,SUV,Standard,739.84
+A0026,26,Auto,SUV,Standard,694.17
+A0595,595,Auto,Truck,Standard,1138.86
+A0017,17,Auto,SUV,Standard,1423.98
+A0567,567,Auto,Truck,Full Coverage,1073.38
+A0680,680,Auto,Coupe,Standard,1453.36
+A0021,21,Auto,Sedan,Standard,660.72
+A0175,175,Auto,Sedan,Full Coverage,1052.6
+A0425,425,Auto,SUV,Standard,963.28
+A0245,245,Auto,SUV,Full Coverage,1102.25
+A0132,132,Auto,Sedan,Liability Only,403.65
+A0016,16,Auto,Sedan,Liability Only,715.59
+A0308,308,Auto,Sedan,Full Coverage,1132.66
+A0348,348,Auto,Coupe,Liability Only,698.02
+A0029,29,Auto,Sedan,Full Coverage,1460.26
+A0167,167,Auto,SUV,Liability Only,750.12
+A0383,383,Auto,Sedan,Standard,744.78
+A0241,241,Auto,Sedan,Standard,662.18
+A0779,779,Auto,Sedan,Liability Only,799.1
+A0110,110,Auto,Sedan,Full Coverage,1164.74
+A0095,95,Auto,SUV,Liability Only,656.53
+A0699,699,Auto,Truck,Liability Only,976.58
+A0431,431,Auto,SUV,Full Coverage,1484.38
+A0299,299,Auto,Sedan,Full Coverage,1928.57
+A0407,407,Auto,SUV,Liability Only,671.64

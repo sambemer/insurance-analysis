@@ -1,0 +1,521 @@
+policy_id,customer_id,policy_type,home_type,coverage_level,annual_premium
+H0341,341,Home,Single Family,Standard,1170.9
+H0269,269,Home,Single Family,Full Coverage,1299.35
+H0465,465,Home,Single Family,Standard,1128.18
+H0171,171,Home,Condo,Standard,635.43
+H0717,717,Home,Multi-Family,Full Coverage,1571.93
+H0667,667,Home,Single Family,Full Coverage,1367.62
+H0701,701,Home,Single Family,Standard,1083.88
+H0339,339,Home,Condo,Standard,541.5
+H0426,426,Home,Single Family,Full Coverage,2447.46
+H0280,280,Home,Townhouse,Full Coverage,1468.11
+H0122,122,Home,Single Family,Full Coverage,2349.55
+H0344,344,Home,Condo,Liability Only,347.34
+H0675,675,Home,Condo,Full Coverage,1102.27
+H0682,682,Home,Townhouse,Liability Only,386.52
+H0635,635,Home,Single Family,Standard,859.66
+H0678,678,Home,Condo,Liability Only,683.43
+H0286,286,Home,Single Family,Standard,1091.64
+H0462,462,Home,Single Family,Standard,618.29
+H0770,770,Home,Condo,Full Coverage,982.13
+H0581,581,Home,Single Family,Full Coverage,1621.63
+H0015,15,Home,Townhouse,Full Coverage,1023.75
+H0535,535,Home,Townhouse,Standard,1695.31
+H0196,196,Home,Condo,Standard,919.47
+H0495,495,Home,Condo,Liability Only,367.78
+H0584,584,Home,Townhouse,Liability Only,623.1
+H0442,442,Home,Condo,Liability Only,368.44
+H0450,450,Home,Single Family,Full Coverage,2621.7
+H0524,524,Home,Townhouse,Full Coverage,1104.79
+H0674,674,Home,Townhouse,Full Coverage,1487.65
+H0422,422,Home,Condo,Full Coverage,1679.92
+H0220,220,Home,Single Family,Liability Only,613.87
+H0783,783,Home,Townhouse,Liability Only,484.19
+H0633,633,Home,Single Family,Standard,930.42
+H0591,591,Home,Condo,Full Coverage,2049.15
+H0287,287,Home,Multi-Family,Full Coverage,1906.22
+H0213,213,Home,Townhouse,Standard,969.85
+H0271,271,Home,Single Family,Full Coverage,1697.8
+H0590,590,Home,Single Family,Standard,770.11
+H0728,728,Home,Single Family,Standard,1320.21
+H0740,740,Home,Single Family,Standard,757.01
+H0479,479,Home,Single Family,Full Coverage,2354.38
+H0427,427,Home,Multi-Family,Standard,1063.49
+H0372,372,Home,Single Family,Full Coverage,1707.83
+H0243,243,Home,Single Family,Full Coverage,2007.82
+H0167,167,Home,Single Family,Full Coverage,2258.4
+H0492,492,Home,Townhouse,Liability Only,377.95
+H0047,47,Home,Single Family,Standard,820.03
+H0088,88,Home,Single Family,Standard,1170.28
+H0157,157,Home,Single Family,Standard,1613.4
+H0519,519,Home,Single Family,Full Coverage,2091.59
+H0527,527,Home,Townhouse,Full Coverage,1258.41
+H0055,55,Home,Single Family,Full Coverage,1795.18
+H0487,487,Home,Single Family,Full Coverage,1698.07
+H0082,82,Home,Condo,Liability Only,284.87
+H0546,546,Home,Single Family,Standard,905.57
+H0359,359,Home,Multi-Family,Liability Only,548.24
+H0489,489,Home,Condo,Liability Only,259.63
+H0760,760,Home,Single Family,Liability Only,449.58
+H0367,367,Home,Townhouse,Full Coverage,1524.85
+H0131,131,Home,Multi-Family,Full Coverage,2025.45
+H0272,272,Home,Single Family,Standard,1192.44
+H0610,610,Home,Multi-Family,Standard,1364.68
+H0010,10,Home,Townhouse,Full Coverage,1364.77
+H0199,199,Home,Condo,Full Coverage,1312.45
+H0625,625,Home,Single Family,Liability Only,343.23
+H0456,456,Home,Single Family,Standard,1615.28
+H0361,361,Home,Multi-Family,Standard,1193.56
+H0538,538,Home,Townhouse,Full Coverage,1744.95
+H0056,56,Home,Single Family,Standard,696.88
+H0786,786,Home,Single Family,Full Coverage,3086.35
+H0603,603,Home,Townhouse,Standard,909.54
+H0096,96,Home,Condo,Standard,1061.2
+H0763,763,Home,Single Family,Standard,1344.45
+H0212,212,Home,Multi-Family,Standard,1265.74
+H0126,126,Home,Single Family,Full Coverage,1462.26
+H0074,74,Home,Single Family,Full Coverage,2103.42
+H0277,277,Home,Single Family,Standard,1099.55
+H0722,722,Home,Single Family,Full Coverage,1449.2
+H0735,735,Home,Single Family,Standard,854.68
+H0616,616,Home,Single Family,Full Coverage,1940.76
+H0159,159,Home,Townhouse,Standard,1212.82
+H0472,472,Home,Single Family,Standard,697.41
+H0166,166,Home,Multi-Family,Full Coverage,1345.54
+H0165,165,Home,Townhouse,Standard,1295.02
+H0473,473,Home,Single Family,Standard,1110.7
+H0145,145,Home,Single Family,Standard,1073.23
+H0470,470,Home,Townhouse,Full Coverage,1901.45
+H0095,95,Home,Condo,Liability Only,509.95
+H0486,486,Home,Condo,Full Coverage,2511.22
+H0457,457,Home,Single Family,Liability Only,516.6
+H0026,26,Home,Single Family,Standard,697.19
+H0370,370,Home,Townhouse,Standard,485.5
+H0031,31,Home,Single Family,Standard,941.08
+H0036,36,Home,Multi-Family,Standard,1288.04
+H0104,104,Home,Single Family,Full Coverage,1529.76
+H0317,317,Home,Multi-Family,Standard,799.79
+H0181,181,Home,Single Family,Liability Only,453.34
+H0596,596,Home,Condo,Standard,677.27
+H0619,619,Home,Multi-Family,Standard,1277.4
+H0705,705,Home,Townhouse,Full Coverage,1282.27
+H0285,285,Home,Single Family,Standard,1696.37
+H0421,421,Home,Condo,Full Coverage,1492.05
+H0173,173,Home,Multi-Family,Liability Only,519.41
+H0081,81,Home,Multi-Family,Full Coverage,1442.38
+H0657,657,Home,Single Family,Standard,978.21
+H0666,666,Home,Townhouse,Standard,934.53
+H0396,396,Home,Multi-Family,Full Coverage,1968.86
+H0219,219,Home,Multi-Family,Full Coverage,1596.58
+H0177,177,Home,Townhouse,Standard,987.7
+H0579,579,Home,Condo,Full Coverage,2221.31
+H0248,248,Home,Condo,Full Coverage,2140.76
+H0211,211,Home,Single Family,Standard,1621.37
+H0428,428,Home,Townhouse,Full Coverage,1438.88
+H0400,400,Home,Townhouse,Standard,1222.21
+H0299,299,Home,Townhouse,Standard,1590.17
+H0779,779,Home,Single Family,Standard,1121.32
+H0294,294,Home,Multi-Family,Liability Only,761.24
+H0067,67,Home,Townhouse,Full Coverage,2030.83
+H0459,459,Home,Single Family,Standard,1491.22
+H0337,337,Home,Single Family,Liability Only,761.89
+H0050,50,Home,Townhouse,Full Coverage,1916.15
+H0106,106,Home,Single Family,Standard,1411.26
+H0342,342,Home,Condo,Liability Only,400.85
+H0578,578,Home,Townhouse,Full Coverage,1495.34
+H0228,228,Home,Single Family,Full Coverage,1680.7
+H0488,488,Home,Single Family,Standard,1120.13
+H0035,35,Home,Condo,Standard,1270.51
+H0534,534,Home,Multi-Family,Standard,1246.89
+H0328,328,Home,Single Family,Full Coverage,2367.27
+H0754,754,Home,Multi-Family,Full Coverage,1796.13
+H0451,451,Home,Single Family,Full Coverage,1627.05
+H0148,148,Home,Single Family,Standard,992.55
+H0604,604,Home,Single Family,Standard,918.47
+H0350,350,Home,Single Family,Full Coverage,1276.71
+H0707,707,Home,Single Family,Standard,1023.53
+H0385,385,Home,Single Family,Standard,687.36
+H0290,290,Home,Single Family,Full Coverage,1409.87
+H0176,176,Home,Single Family,Standard,969.06
+H0377,377,Home,Condo,Full Coverage,1395.29
+H0632,632,Home,Single Family,Full Coverage,1525.73
+H0023,23,Home,Townhouse,Standard,717.78
+H0453,453,Home,Condo,Standard,680.36
+H0336,336,Home,Single Family,Standard,1269.5
+H0314,314,Home,Townhouse,Standard,1160.97
+H0461,461,Home,Condo,Standard,786.36
+H0499,499,Home,Townhouse,Standard,1235.71
+H0222,222,Home,Single Family,Full Coverage,2126.69
+H0650,650,Home,Multi-Family,Full Coverage,1595.62
+H0144,144,Home,Single Family,Liability Only,528.64
+H0623,623,Home,Single Family,Full Coverage,1488.94
+H0530,530,Home,Condo,Liability Only,442.37
+H0146,146,Home,Multi-Family,Full Coverage,912.73
+H0742,742,Home,Single Family,Full Coverage,1449.53
+H0223,223,Home,Single Family,Full Coverage,1541.18
+H0017,17,Home,Townhouse,Standard,1237.55
+H0301,301,Home,Single Family,Full Coverage,1821.16
+H0471,471,Home,Condo,Standard,1500.4
+H0139,139,Home,Single Family,Standard,1495.49
+H0485,485,Home,Single Family,Full Coverage,2163.27
+H0252,252,Home,Single Family,Full Coverage,1506.43
+H0284,284,Home,Single Family,Full Coverage,2949.33
+H0412,412,Home,Multi-Family,Liability Only,439.26
+H0737,737,Home,Townhouse,Standard,1080.11
+H0239,239,Home,Condo,Full Coverage,1673.22
+H0084,84,Home,Condo,Standard,769.06
+H0624,624,Home,Multi-Family,Standard,1258.52
+H0300,300,Home,Townhouse,Standard,1109.14
+H0797,797,Home,Single Family,Full Coverage,1709.04
+H0164,164,Home,Single Family,Full Coverage,1475.88
+H0107,107,Home,Townhouse,Standard,706.89
+H0260,260,Home,Single Family,Standard,1373.28
+H0466,466,Home,Single Family,Full Coverage,1696.3
+H0048,48,Home,Condo,Standard,822.37
+H0618,618,Home,Single Family,Standard,1283.34
+H0622,622,Home,Condo,Liability Only,289.22
+H0673,673,Home,Single Family,Standard,937.31
+H0347,347,Home,Single Family,Liability Only,453.67
+H0478,478,Home,Condo,Liability Only,383.2
+H0208,208,Home,Multi-Family,Full Coverage,1837.87
+H0230,230,Home,Single Family,Full Coverage,1461.61
+H0648,648,Home,Single Family,Standard,1073.23
+H0194,194,Home,Condo,Full Coverage,1004.74
+H0588,588,Home,Single Family,Full Coverage,2003.77
+H0069,69,Home,Multi-Family,Standard,1147.64
+H0480,480,Home,Multi-Family,Full Coverage,1786.41
+H0752,752,Home,Condo,Full Coverage,1071.15
+H0150,150,Home,Multi-Family,Liability Only,482.55
+H0371,371,Home,Multi-Family,Full Coverage,3081.11
+H0782,782,Home,Multi-Family,Standard,1281.88
+H0558,558,Home,Townhouse,Standard,1048.8
+H0743,743,Home,Single Family,Standard,689.29
+H0158,158,Home,Single Family,Standard,784.07
+H0765,765,Home,Condo,Standard,915.02
+H0436,436,Home,Single Family,Full Coverage,1404.82
+H0762,762,Home,Condo,Standard,1170.24
+H0008,8,Home,Single Family,Full Coverage,1195.01
+H0601,601,Home,Townhouse,Liability Only,480.86
+H0464,464,Home,Single Family,Standard,870.06
+H0693,693,Home,Single Family,Standard,1279.13
+H0059,59,Home,Single Family,Full Coverage,1333.54
+H0706,706,Home,Single Family,Liability Only,505.23
+H0249,249,Home,Condo,Liability Only,588.42
+H0038,38,Home,Townhouse,Full Coverage,2335.43
+H0216,216,Home,Single Family,Full Coverage,1617.71
+H0343,343,Home,Townhouse,Standard,1110.47
+H0724,724,Home,Condo,Full Coverage,1394.62
+H0188,188,Home,Single Family,Full Coverage,974.77
+H0042,42,Home,Single Family,Standard,1162.49
+H0784,784,Home,Condo,Full Coverage,1178.86
+H0251,251,Home,Townhouse,Full Coverage,1976.65
+H0238,238,Home,Townhouse,Standard,1174.15
+H0179,179,Home,Condo,Standard,642.03
+H0798,798,Home,Townhouse,Full Coverage,933.01
+H0160,160,Home,Single Family,Standard,1415.93
+H0731,731,Home,Single Family,Standard,917.75
+H0331,331,Home,Multi-Family,Standard,2042.29
+H0226,226,Home,Condo,Standard,519.77
+H0321,321,Home,Single Family,Standard,855.12
+H0062,62,Home,Single Family,Standard,1297.8
+H0329,329,Home,Multi-Family,Standard,1572.57
+H0218,218,Home,Condo,Full Coverage,1697.3
+H0664,664,Home,Multi-Family,Full Coverage,2204.56
+H0687,687,Home,Condo,Standard,1318.45
+H0346,346,Home,Condo,Standard,936.38
+H0788,788,Home,Multi-Family,Standard,918.96
+H0227,227,Home,Single Family,Full Coverage,2152.01
+H0789,789,Home,Single Family,Standard,1237.04
+H0513,513,Home,Single Family,Standard,1192.8
+H0013,13,Home,Single Family,Full Coverage,1510.48
+H0658,658,Home,Single Family,Full Coverage,2470.52
+H0775,775,Home,Single Family,Liability Only,427.0
+H0303,303,Home,Single Family,Full Coverage,1307.27
+H0509,509,Home,Single Family,Standard,902.06
+H0606,606,Home,Single Family,Standard,880.1
+H0153,153,Home,Condo,Liability Only,312.84
+H0356,356,Home,Condo,Full Coverage,1090.12
+H0109,109,Home,Multi-Family,Full Coverage,2062.27
+H0744,744,Home,Condo,Standard,617.78
+H0180,180,Home,Single Family,Standard,1164.93
+H0236,236,Home,Multi-Family,Standard,1119.88
+H0097,97,Home,Condo,Standard,947.38
+H0715,715,Home,Townhouse,Full Coverage,1590.79
+H0112,112,Home,Condo,Liability Only,688.38
+H0507,507,Home,Single Family,Standard,1019.44
+H0022,22,Home,Condo,Standard,794.5
+H0009,9,Home,Townhouse,Liability Only,492.91
+H0151,151,Home,Condo,Full Coverage,1267.2
+H0098,98,Home,Townhouse,Standard,539.67
+H0758,758,Home,Single Family,Standard,910.73
+H0090,90,Home,Single Family,Full Coverage,2187.84
+H0305,305,Home,Single Family,Standard,1198.04
+H0533,533,Home,Condo,Standard,699.87
+H0407,407,Home,Condo,Standard,1094.97
+H0044,44,Home,Single Family,Full Coverage,1614.0
+H0416,416,Home,Single Family,Full Coverage,1540.49
+H0245,245,Home,Condo,Full Coverage,1230.9
+H0404,404,Home,Single Family,Full Coverage,2028.05
+H0065,65,Home,Condo,Standard,538.76
+H0120,120,Home,Single Family,Full Coverage,1574.3
+H0340,340,Home,Single Family,Standard,945.17
+H0564,564,Home,Condo,Full Coverage,1157.32
+H0018,18,Home,Condo,Full Coverage,1073.08
+H0382,382,Home,Townhouse,Standard,562.52
+H0518,518,Home,Single Family,Full Coverage,1468.09
+H0544,544,Home,Single Family,Liability Only,630.41
+H0186,186,Home,Multi-Family,Full Coverage,2203.51
+H0721,721,Home,Multi-Family,Full Coverage,2145.49
+H0206,206,Home,Multi-Family,Standard,959.66
+H0191,191,Home,Single Family,Full Coverage,2525.48
+H0174,174,Home,Multi-Family,Standard,1443.12
+H0354,354,Home,Single Family,Liability Only,347.13
+H0759,759,Home,Townhouse,Full Coverage,2345.11
+H0125,125,Home,Townhouse,Standard,899.19
+H0627,627,Home,Single Family,Liability Only,445.26
+H0417,417,Home,Condo,Full Coverage,1922.25
+H0205,205,Home,Townhouse,Standard,1063.51
+H0644,644,Home,Multi-Family,Full Coverage,1703.27
+H0133,133,Home,Single Family,Full Coverage,2346.79
+H0244,244,Home,Single Family,Standard,1295.97
+H0800,800,Home,Single Family,Standard,1045.76
+H0132,132,Home,Single Family,Standard,989.51
+H0669,669,Home,Single Family,Liability Only,625.78
+H0425,425,Home,Condo,Standard,622.75
+H0368,368,Home,Townhouse,Standard,974.85
+H0005,5,Home,Townhouse,Liability Only,410.51
+H0322,322,Home,Single Family,Full Coverage,1828.85
+H0319,319,Home,Single Family,Standard,737.62
+H0027,27,Home,Multi-Family,Full Coverage,1466.14
+H0433,433,Home,Single Family,Standard,537.82
+H0655,655,Home,Townhouse,Standard,1307.29
+H0686,686,Home,Townhouse,Standard,621.37
+H0663,663,Home,Single Family,Standard,832.05
+H0311,311,Home,Townhouse,Liability Only,404.36
+H0352,352,Home,Single Family,Standard,1567.62
+H0136,136,Home,Townhouse,Standard,712.77
+H0493,493,Home,Single Family,Liability Only,685.35
+H0683,683,Home,Townhouse,Standard,900.23
+H0626,626,Home,Condo,Liability Only,429.48
+H0265,265,Home,Single Family,Full Coverage,1620.55
+H0771,771,Home,Condo,Full Coverage,1010.22
+H0403,403,Home,Single Family,Liability Only,464.08
+H0745,745,Home,Single Family,Standard,1235.57
+H0415,415,Home,Townhouse,Full Coverage,1202.65
+H0020,20,Home,Single Family,Standard,710.11
+H0526,526,Home,Single Family,Standard,1886.86
+H0595,595,Home,Single Family,Standard,1432.24
+H0358,358,Home,Single Family,Full Coverage,1090.98
+H0093,93,Home,Condo,Full Coverage,1573.58
+H0135,135,Home,Condo,Standard,1231.85
+H0405,405,Home,Multi-Family,Full Coverage,1256.04
+H0128,128,Home,Townhouse,Full Coverage,2422.11
+H0373,373,Home,Condo,Standard,576.81
+H0214,214,Home,Multi-Family,Full Coverage,2634.68
+H0121,121,Home,Single Family,Full Coverage,1288.84
+H0189,189,Home,Single Family,Standard,1448.09
+H0448,448,Home,Multi-Family,Standard,774.79
+H0110,110,Home,Townhouse,Full Coverage,1609.77
+H0741,741,Home,Single Family,Full Coverage,2746.9
+H0058,58,Home,Townhouse,Standard,1287.15
+H0727,727,Home,Townhouse,Liability Only,420.53
+H0117,117,Home,Single Family,Full Coverage,1840.21
+H0520,520,Home,Single Family,Full Coverage,1898.5
+H0410,410,Home,Multi-Family,Full Coverage,1686.21
+H0718,718,Home,Multi-Family,Full Coverage,2411.76
+H0449,449,Home,Condo,Standard,1016.88
+H0327,327,Home,Condo,Standard,681.77
+H0259,259,Home,Single Family,Liability Only,493.12
+H0409,409,Home,Townhouse,Standard,700.57
+H0689,689,Home,Single Family,Standard,1757.31
+H0375,375,Home,Townhouse,Full Coverage,1693.25
+H0646,646,Home,Townhouse,Full Coverage,1170.37
+H0559,559,Home,Single Family,Full Coverage,2304.35
+H0170,170,Home,Single Family,Full Coverage,1392.79
+H0326,326,Home,Single Family,Full Coverage,1184.24
+H0540,540,Home,Condo,Standard,938.22
+H0455,455,Home,Multi-Family,Full Coverage,1703.51
+H0365,365,Home,Condo,Full Coverage,1048.16
+H0799,799,Home,Multi-Family,Standard,1324.79
+H0539,539,Home,Condo,Standard,1341.24
+H0118,118,Home,Single Family,Full Coverage,1435.13
+H0161,161,Home,Townhouse,Standard,946.19
+H0719,719,Home,Single Family,Full Coverage,2157.53
+H0732,732,Home,Single Family,Full Coverage,1137.64
+H0175,175,Home,Single Family,Liability Only,461.2
+H0692,692,Home,Single Family,Standard,1412.38
+H0645,645,Home,Townhouse,Full Coverage,1285.36
+H0283,283,Home,Townhouse,Full Coverage,2184.66
+H0198,198,Home,Condo,Full Coverage,938.93
+H0039,39,Home,Single Family,Full Coverage,1311.79
+H0654,654,Home,Single Family,Full Coverage,2247.83
+H0612,612,Home,Townhouse,Full Coverage,2504.3
+H0672,672,Home,Single Family,Full Coverage,1402.77
+H0629,629,Home,Single Family,Full Coverage,1440.61
+H0049,49,Home,Single Family,Standard,655.7
+H0079,79,Home,Single Family,Liability Only,608.75
+H0304,304,Home,Condo,Standard,756.47
+H0419,419,Home,Single Family,Liability Only,622.38
+H0233,233,Home,Condo,Standard,756.42
+H0467,467,Home,Single Family,Standard,1129.66
+H0628,628,Home,Single Family,Standard,814.81
+H0052,52,Home,Single Family,Standard,979.64
+H0401,401,Home,Single Family,Liability Only,520.7
+H0508,508,Home,Condo,Standard,1103.62
+H0537,537,Home,Condo,Standard,896.81
+H0168,168,Home,Single Family,Standard,1073.07
+H0072,72,Home,Townhouse,Standard,759.14
+H0156,156,Home,Condo,Liability Only,659.7
+H0315,315,Home,Single Family,Standard,963.07
+H0178,178,Home,Multi-Family,Liability Only,575.3
+H0387,387,Home,Single Family,Full Coverage,1922.02
+H0512,512,Home,Condo,Standard,1619.45
+H0021,21,Home,Single Family,Standard,711.75
+H0587,587,Home,Single Family,Standard,1150.09
+H0725,725,Home,Single Family,Full Coverage,2186.98
+H0391,391,Home,Condo,Standard,1035.89
+H0235,235,Home,Townhouse,Liability Only,412.63
+H0768,768,Home,Single Family,Liability Only,566.32
+H0210,210,Home,Condo,Full Coverage,1959.0
+H0547,547,Home,Condo,Full Coverage,1516.0
+H0064,64,Home,Single Family,Full Coverage,1390.74
+H0393,393,Home,Townhouse,Standard,994.61
+H0576,576,Home,Single Family,Full Coverage,1221.38
+H0563,563,Home,Single Family,Standard,967.71
+H0504,504,Home,Condo,Standard,744.24
+H0679,679,Home,Single Family,Liability Only,419.63
+H0511,511,Home,Single Family,Full Coverage,1401.54
+H0030,30,Home,Townhouse,Liability Only,264.57
+H0016,16,Home,Single Family,Standard,951.97
+H0778,778,Home,Single Family,Full Coverage,1804.4
+H0777,777,Home,Multi-Family,Full Coverage,2112.03
+H0011,11,Home,Single Family,Standard,755.62
+H0083,83,Home,Single Family,Full Coverage,1950.72
+H0711,711,Home,Single Family,Full Coverage,1981.13
+H0795,795,Home,Condo,Standard,1063.12
+H0497,497,Home,Single Family,Full Coverage,1789.72
+H0197,197,Home,Condo,Full Coverage,1689.23
+H0454,454,Home,Townhouse,Liability Only,461.23
+H0185,185,Home,Single Family,Standard,767.59
+H0565,565,Home,Single Family,Standard,1115.0
+H0351,351,Home,Single Family,Full Coverage,1861.56
+H0242,242,Home,Single Family,Liability Only,669.59
+H0746,746,Home,Townhouse,Full Coverage,1175.77
+H0398,398,Home,Townhouse,Full Coverage,1147.13
+H0241,241,Home,Single Family,Full Coverage,1056.13
+H0379,379,Home,Single Family,Full Coverage,1320.49
+H0429,429,Home,Townhouse,Full Coverage,2366.29
+H0004,4,Home,Townhouse,Standard,973.54
+H0460,460,Home,Condo,Liability Only,450.05
+H0607,607,Home,Single Family,Liability Only,626.37
+H0781,781,Home,Condo,Liability Only,656.58
+H0390,390,Home,Townhouse,Full Coverage,2508.89
+H0477,477,Home,Multi-Family,Full Coverage,1594.0
+H0276,276,Home,Townhouse,Full Coverage,2111.88
+H0577,577,Home,Single Family,Full Coverage,1930.85
+H0458,458,Home,Townhouse,Full Coverage,2053.49
+H0388,388,Home,Multi-Family,Liability Only,755.85
+H0363,363,Home,Condo,Standard,767.22
+H0261,261,Home,Townhouse,Standard,1273.53
+H0440,440,Home,Single Family,Liability Only,445.81
+H0414,414,Home,Condo,Full Coverage,1307.78
+H0580,580,Home,Multi-Family,Standard,988.03
+H0192,192,Home,Condo,Standard,898.08
+H0696,696,Home,Multi-Family,Standard,1101.77
+H0494,494,Home,Single Family,Full Coverage,1679.82
+H0636,636,Home,Single Family,Liability Only,616.18
+H0585,585,Home,Condo,Standard,1598.41
+H0665,665,Home,Townhouse,Liability Only,372.95
+H0586,586,Home,Condo,Standard,759.56
+H0729,729,Home,Multi-Family,Full Coverage,1021.96
+H0592,592,Home,Single Family,Standard,1565.25
+H0776,776,Home,Townhouse,Full Coverage,1499.39
+H0234,234,Home,Single Family,Liability Only,599.69
+H0615,615,Home,Single Family,Standard,762.37
+H0190,190,Home,Townhouse,Standard,1552.21
+H0792,792,Home,Single Family,Full Coverage,1752.23
+H0316,316,Home,Single Family,Standard,973.54
+H0364,364,Home,Single Family,Standard,882.71
+H0308,308,Home,Townhouse,Full Coverage,1265.66
+H0503,503,Home,Single Family,Standard,1071.32
+H0498,498,Home,Townhouse,Full Coverage,1237.98
+H0141,141,Home,Condo,Standard,576.54
+H0594,594,Home,Townhouse,Full Coverage,968.33
+H0221,221,Home,Single Family,Full Coverage,1636.56
+H0250,250,Home,Single Family,Full Coverage,1556.71
+H0670,670,Home,Single Family,Full Coverage,1456.25
+H0187,187,Home,Single Family,Standard,882.5
+H0288,288,Home,Single Family,Standard,1025.14
+H0254,254,Home,Single Family,Full Coverage,1196.35
+H0676,676,Home,Townhouse,Standard,914.0
+H0688,688,Home,Condo,Standard,1032.57
+H0029,29,Home,Townhouse,Standard,1229.22
+H0600,600,Home,Single Family,Liability Only,403.07
+H0298,298,Home,Townhouse,Full Coverage,1725.66
+H0413,413,Home,Condo,Full Coverage,1563.34
+H0113,113,Home,Single Family,Full Coverage,1712.22
+H0292,292,Home,Townhouse,Standard,783.6
+H0025,25,Home,Single Family,Full Coverage,2404.64
+H0253,253,Home,Multi-Family,Full Coverage,2966.06
+H0720,720,Home,Single Family,Liability Only,326.29
+H0793,793,Home,Single Family,Standard,1985.58
+H0007,7,Home,Single Family,Full Coverage,2604.83
+H0392,392,Home,Multi-Family,Full Coverage,2201.2
+H0605,605,Home,Townhouse,Full Coverage,1252.45
+H0733,733,Home,Multi-Family,Standard,1212.32
+H0736,736,Home,Townhouse,Full Coverage,927.15
+H0034,34,Home,Single Family,Full Coverage,1906.44
+H0267,267,Home,Single Family,Standard,1159.12
+H0099,99,Home,Single Family,Liability Only,294.34
+H0756,756,Home,Single Family,Full Coverage,1438.16
+H0395,395,Home,Single Family,Standard,1900.15
+H0441,441,Home,Single Family,Standard,2225.51
+H0761,761,Home,Townhouse,Full Coverage,2070.53
+H0143,143,Home,Single Family,Full Coverage,1536.39
+H0439,439,Home,Single Family,Full Coverage,1289.24
+H0542,542,Home,Single Family,Standard,1355.87
+H0476,476,Home,Single Family,Standard,1011.1
+H0502,502,Home,Townhouse,Liability Only,742.55
+H0481,481,Home,Single Family,Standard,883.74
+H0561,561,Home,Single Family,Standard,815.28
+H0660,660,Home,Single Family,Full Coverage,1931.82
+H0360,360,Home,Condo,Standard,721.42
+H0643,643,Home,Single Family,Standard,675.34
+H0574,574,Home,Condo,Full Coverage,1937.39
+H0568,568,Home,Single Family,Full Coverage,1778.49
+H0621,621,Home,Single Family,Standard,1204.9
+H0791,791,Home,Multi-Family,Standard,750.48
+H0268,268,Home,Single Family,Full Coverage,1617.87
+H0599,599,Home,Condo,Full Coverage,1594.4
+H0203,203,Home,Townhouse,Standard,1141.48
+H0114,114,Home,Single Family,Full Coverage,1957.11
+H0734,734,Home,Single Family,Full Coverage,1716.69
+H0716,716,Home,Single Family,Full Coverage,1446.09
+H0681,681,Home,Single Family,Liability Only,438.74
+H0651,651,Home,Single Family,Full Coverage,1470.44
+H0080,80,Home,Single Family,Standard,1030.89
+H0647,647,Home,Single Family,Standard,1243.1
+H0490,490,Home,Single Family,Full Coverage,1628.47
+H0054,54,Home,Single Family,Standard,1388.36
+H0566,566,Home,Condo,Standard,835.0
+H0582,582,Home,Condo,Liability Only,314.6
+H0094,94,Home,Single Family,Full Coverage,935.81
+H0060,60,Home,Multi-Family,Full Coverage,1715.1
+H0500,500,Home,Townhouse,Liability Only,356.68
+H0046,46,Home,Single Family,Full Coverage,2268.91
+H0614,614,Home,Townhouse,Full Coverage,2053.55
+H0780,780,Home,Single Family,Standard,1759.52
+H0690,690,Home,Single Family,Liability Only,636.21
+H0154,154,Home,Single Family,Standard,642.98
+H0704,704,Home,Single Family,Standard,794.02
+H0661,661,Home,Condo,Standard,629.66
+H0066,66,Home,Multi-Family,Standard,967.89
+H0699,699,Home,Single Family,Full Coverage,2810.57
+H0583,583,Home,Townhouse,Standard,1197.09
+H0348,348,Home,Single Family,Full Coverage,1265.13
+H0134,134,Home,Multi-Family,Full Coverage,3401.97
+H0032,32,Home,Single Family,Full Coverage,1751.56
+H0714,714,Home,Single Family,Standard,945.48
+H0641,641,Home,Townhouse,Full Coverage,942.04
+H0653,653,Home,Single Family,Standard,1419.12
+H0555,555,Home,Single Family,Standard,1526.02
